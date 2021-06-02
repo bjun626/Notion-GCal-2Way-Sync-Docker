@@ -32,9 +32,10 @@ The page template has to follow the convention on this notion [template](https:/
 |DATABASE_ID|get the mess of numbers before the "?" on your dashboard URL|
 |CALENDAR_ID|The GCal calendar id. The format is something like "xxxxxxxxxxxxxxxxxxxxxxxxxx@groups.calendar.google.com"|
 |TIME_ZONE_NAME|Choose your respective time zone: http://www.timezoneconverter.com/cgi-bin/zonehelp.tzc|
-|TIME_ZONE_OFFSET|Offset Hours if system time is not the correct time zone (Use this to offset docker time)|
+|TIME_ZONE_OFFSET|Offset Hours if the system time is not the correct time zone (Use this to offset docker time)|
 |URL_ROOT|open up a task and then copy the URL root up to the "p="|
 |DEFAULT_EVENT_LENGTH|This is how many minutes the default event length is. Feel free to change it as you please|
 |DEFAULT_EVENT_START|8 would be 8 am. 16 would be 4 pm. Only whole numbers
 |ALL_DAY_EVENT_OPTION|0 if you want dates on your Notion dashboard to be treated as an all-day event, 1 if you want dates on your Notion dashboard to be created at whatever hour you defined in the DEFAULT_EVENT_START variable|
+|SLEEP_TIME|Amount of time (in sec) to run synchronization
 
