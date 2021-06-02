@@ -1,0 +1,13 @@
+{
+    "NOTION_TOKEN": "secret_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "DATABASE_ID": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz",
+    "URL_ROOT": "https://www.notion.so/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx?v=yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy&p=",
+    "CALENDAR_ID": "aaaaaaaaaaaaaaaaaaaaaaaaaa@group.calendar.google.com",
+    "TIME_ZONE": 0,
+    "TIME_ZONE_OFFSET": 0,
+    "SLEEP_TIME": 60,
+    "TIME_ZONE_NAME": "Europe/London",
+    "DEFAULT_EVENT_LENGTH": 60,
+    "DEFAULT_EVENT_START": 8,
+    "ALL_DAY_EVENT_OPTION": 0
+}
